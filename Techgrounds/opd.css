@@ -20,7 +20,7 @@
     box-shadow: 0 0 3px rgba(43, 40, 40, 0.61) inset;
        }
   .cards img {
-    width: 100px;
+    width: 150px;
   }
   .cards h4 {   
       color:green;
@@ -36,3 +36,28 @@
   h1 {
     text-transform: uppercase;
   }
+  
+ .techgrounds{
+     background-color: rgb(17, 15, 15);
+     padding: 20px;
+ }
+  
+ .main-p{
+  text-align: left;
+  padding: 20px;
+  margin: 10px;
+  background-color:rgb(36, 8, 8);
+ }
+ .lower-p{
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+    background-color:rgb(36, 8, 8);
+   }
+   .middle-p{
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+    background-color:rgb(36, 8, 8);
+   }
+    
