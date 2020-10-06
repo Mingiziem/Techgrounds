@@ -8,6 +8,25 @@
       background-size: cover;
 
   }
+  body{
+            
+    /* CSS Opdracht1: Voeg hier de lettergrootte, lettertype en achtergrondkleur*/
+     font-size: large;
+     background-color:grey;
+     color:white;
+     font-size: 2opx; 
+     font-family: Courier;
+    }
+
+    p {
+        background-color:rgba(238, 227, 227, 0.6);
+        opacity: 0.6;
+        color:red;
+        font-size: 14px;
+        text-align:right;
+        /* CSS Opdracht2: Voeg hier de kleur van de tekst en achtergrondkleur*/
+    }
+   
 .cards{
     background-color:grey;
      padding: 10px;
