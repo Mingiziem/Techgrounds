@@ -1,4 +1,4 @@
-
+/*Body and Html tag with background image */
   
   html body{
       background-image:url(https://i.postimg.cc/pTV3VCZm/images-1.jpg);
@@ -8,10 +8,11 @@
       background-size: cover;
 
   }
+  
   body{
             
     /* CSS Opdracht1: Voeg hier de lettergrootte, lettertype en achtergrondkleur*/
-     font-size: large;
+     
      background-color:grey;
      color:white;
      font-size: 2opx; 
@@ -27,38 +28,47 @@
         /* CSS Opdracht2: Voeg hier de kleur van de tekst en achtergrondkleur*/
     }
    
+    /*Extra opdracht first card */ 
 .cards{
     background-color:grey;
      padding: 10px;
     height: 450px;
     width: 400px;   
-    font-size: 1.7em;
     text-align: center;
     border: 1px solid black;
     box-sizing: border-box;         
     box-shadow: 0 0 3px rgba(43, 40, 40, 0.61) inset;
-       }
+}
+/* Image in the extra opdracht */ 
   .cards img {
     width: 150px;
   }
+  /*font color in the extra opdracht */ 
   .cards h4 {   
       color:green;
   }
+  /* font color and background in extra extra */ 
   .cards h5 {
       background-color:lightslategray;
       color:red;
       
   }
+
+  /* unordered list font style with italic */ 
   ul{
       font-style:italic;
   }
+  /*transforming the header file to upercase */ 
+
   h1 {
     text-transform: uppercase;
   }
+  /*the second extra opdracht */ 
   
  .techgrounds{
      background-color: rgb(17, 15, 15);
      padding: 20px;
+     height: 400px;
  }
   
  .main-p{
@@ -67,16 +77,26 @@
   margin: 10px;
   background-color:rgb(36, 8, 8);
  }
+ .main-p img{
+      
+     float: left;
+      padding: 15px 16px;       
+      font-size: 14px;
+      width: 400px;
+      height: 100px;
+
+ }
  .lower-p{
     text-align: left;
     padding: 20px;
     margin: 10px;
     background-color:rgb(36, 8, 8);
+    font-size:14px;
    }
-   .middle-p{
+   .middle-p{   
     text-align: left;
     padding: 20px;
     margin: 10px;
     background-color:rgb(36, 8, 8);
+    font-size: 14px;
    }
-    
