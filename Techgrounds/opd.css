@@ -1,0 +1,38 @@
+
+  
+  html body{
+      background-image:url(https://i.postimg.cc/pTV3VCZm/images-1.jpg);
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+
+  }
+.cards{
+    background-color:grey;
+     padding: 10px;
+    height: 450px;
+    width: 400px;   
+    font-size: 1.7em;
+    text-align: center;
+    border: 1px solid black;
+    box-sizing: border-box;         
+    box-shadow: 0 0 3px rgba(43, 40, 40, 0.61) inset;
+       }
+  .cards img {
+    width: 100px;
+  }
+  .cards h4 {   
+      color:green;
+  }
+  .cards h5 {
+      background-color:lightslategray;
+      color:red;
+      
+  }
+  ul{
+      font-style:italic;
+  }
+  h1 {
+    text-transform: uppercase;
+  }
